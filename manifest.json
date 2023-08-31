@@ -1,0 +1,17 @@
+{
+	"name": "InstaMeetHub",
+	"version": "1.1",
+	"description": "User-friendly and time-saving Chrome extension that streamlines the process of organizing and participating in Google Meetings",
+	"manifest_version": 2,
+	"icons": {
+		"128": "instameethub.png"
+	},
+	"app": {
+		"urls": [
+			"https://alphaflare.co.ke/instameethub"
+		],
+		"launch": {
+			"web_url": "https://alphaflare.co.ke/instameethub"
+		}
+	}
+}
